@@ -1,0 +1,13 @@
+{
+  "name": "admin-bot-callback",
+  "version": "1.0.0",
+  "description": "admin bot callback for node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
